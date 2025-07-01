@@ -4,6 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![Selenium](https://img.shields.io/badge/Selenium-Automation-green.svg)
+![Web Scraping](https://img.shields.io/badge/Web-Scraping-orange.svg)
 ![AI Powered](https://img.shields.io/badge/AI-Powered-yellow.svg)
 
 ---
